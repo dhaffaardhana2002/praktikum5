@@ -168,7 +168,7 @@ Gaji Pokok 	: 7000000.0
 Bonus 		: 3000000.0
 ```
 
-[Klik disini untuk melihat Hasil screenshot]()
+[Klik disini untuk melihat Hasil screenshot](https://raw.githubusercontent.com/dhaffaardhana2002/praktikum5/master/img.png)
 
 ___
 Terima kasih telah mengikuti tutorial dari saya, kurang lebihnya mohon maaf.
